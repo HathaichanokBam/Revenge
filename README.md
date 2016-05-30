@@ -9,5 +9,4 @@ A java game using parallex scrolling, sprites, basic save game, and ps3 controll
 Will update this later when i have time to give a better description
 
 ##Preview
-<iframe width="420" height="315" src="https://www.youtube.com/embed/XcaYeK0gJIY" frameborder="0" allowfullscreen></iframe>
-
+https://youtu.be/XcaYeK0gJIY
