@@ -13,5 +13,9 @@ There are many ways to implement collision detection I chose to use one that is 
 
 ####Simple CSV reader
 For this project I added a save game to save scores and other stats. Although I did not finish I implemented a simple functions to get data from a CSV reader. I got inspired by python's csv dictionary reader which can easily read without index but rather by title or string. My csv reader can get a column by title or index, get a row by index, change row, sort (only for the data of the game), and edit information. 
+
 ####PS3 Controller
 Using jinput api I was able to configure a PS3 controller to work instead of using a keyboard for controls. I was planning on having an input manager for the game but sadly I did not have time. I did finish implementing the controller but missing exceptions and handlers but this was temporarily fixed in the main java file. 
+
+####Preview
+https://youtu.be/XcaYeK0gJIY
